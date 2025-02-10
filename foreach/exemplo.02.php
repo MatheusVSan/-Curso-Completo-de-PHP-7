@@ -14,7 +14,7 @@ if (isset($_GET)){
         
     echo "Valor do campo:" . $value. "<hr>";
         
-    echo "<hr>";
+    //echo "<hr>";
          
 
 
