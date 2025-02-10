@@ -7,7 +7,7 @@
 <?php 
 
 if (isset($_GET)){
-
+    //var_dump($_GET);
     foreach ($_GET as $key => $value){
 
     echo "Nome do campo:" . $key . "<br>";
@@ -17,8 +17,8 @@ if (isset($_GET)){
     //echo "<hr>";
          
 
-
     }
+
 }
 
 
